@@ -1,7 +1,7 @@
-//PixelBOT  4  PixelWorlds 
+//PixelBOT  4  PixelWorlds Kukouri
 //
 //
-//dev & created by koza
+//dev & created by ElKoziRRo
 //
 //-----------------------------------------------------------------
 
